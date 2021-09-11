@@ -24,4 +24,4 @@
 </div>
 
 <h2>Links</h2>
-<a href="https://3dd1.github.io/relogioComJavascript/Atv1/">Relogio Kennu Reeves</a>
+<a href="https://3dd1.github.io/relogioComJavascript/Atv1/">Relogio Keanu Reeves</a>
