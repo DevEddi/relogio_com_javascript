@@ -25,3 +25,20 @@
 
 <h2>Links</h2>
 <a href="https://3dd1.github.io/relogioComJavascript/Atv1/">Relogio Keanu Reeves</a>
+
+
+<h3>OBS:</h3>
+<p> 
+    Operador condicional
+
+    O operador condicional é o único operador JavaScript que utiliza três operandos. O operador pode ter um de dois valores baseados em uma condição. A sintaxe é:
+
+    condicao ? valor1 : valor2
+
+    Se condicao for verdadeira, o operador terá o valor de valor1. Caso contrário, terá o valor de valor2. Você pode utilizar o operador condicional em qualquer lugar onde utilizaria um operador padrão. Por exemplo:
+
+    var status = (idade >= 18) ? "adulto" : "menor";
+
+  <a href="https://pt.stackoverflow.com/questions/59112/para-que-serve-a-interroga%C3%A7%C3%A3o-no-javascript">Stackoverflow</a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Expressions_and_Operators">MDN</a>  
+</p>

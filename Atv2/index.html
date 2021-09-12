@@ -8,18 +8,18 @@
     <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-
+    
     <div class="container">
         <h2>Escolha o tempo:</h2>
-        <form>
-            <div>
+        <form id="timeForm">
+            
                 <label></label>
-                <input id="inputTempo" name="inputTempo" value="" type="text"></input>
-                <button onclick="enviaTempo()">Iniciar</button>
-            </div> 
+                <input  name="inputTempo" value="" type="text"></input>
+                <input type="button" onclick="recebeTempo();" value="Iniciar">
+             
         </form>   
     </div>
-
+    
     <div class="container">
         <p id="tempoDescrescente"></p>
     </div>
