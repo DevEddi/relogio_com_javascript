@@ -7,21 +7,22 @@
     <title>Cronometro Keanu Reeves</title>
     <link href="style.css" rel="stylesheet" type="text/css">
 </head>
-<body>
+<body >
+    
     
     <div class="container">
         <h2>Escolha o tempo:</h2>
-        <form id="timeForm">
+        <form action="">
             
                 <label></label>
-                <input  name="inputTempo" value="" type="text"></input>
-                <input type="button" onclick="recebeTempo();" value="Iniciar">
+                <input  name="inputTempo" id="tempo" type="text"></input>
+                <input type="submit" id="envia" onchange="iniciaTempo();" value="Iniciar">
              
         </form>   
     </div>
     
     <div class="container">
-        <p id="tempoDescrescente"></p>
+        <p id="timer"></p>
     </div>
 
     

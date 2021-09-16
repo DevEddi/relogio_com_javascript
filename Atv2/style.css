@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url("https://cdn.wallpapersafari.com/13/14/XdZGlu.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+#tempo{
+    width: 300px;
+    height: 30px;
+    border-radius: 30px;
+}
+
+#envia{
+    height: 40px;
+    width: 50px;
+    border-radius: 30px;
+}
+.container {
+    
+    color: rgb(12, 203, 209);
+    font-weight: bold;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.container p{
+    background-color:white;
+    width: 100px;
+    border-radius: 30px;
+}
